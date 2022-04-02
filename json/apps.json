@@ -1,11 +1,9 @@
 [
    {
-   "name":"Global Smart + (Coming soon)",
-   "siteLink":"https://globalimebank.com/globalsmart-plus",
-   "upiPageLink":"https://globalimebank.com/globalsmart-plus",
-   "logoLink":"GlobalSmart.webp",
-   "playStoreLink":"https://play.google.com/store/apps/details?id=com.swifttechnology.globalsmart&hl=en&gl=US",
-   "appStoreLink":"https://apps.apple.com/us/app/global-smart-plus/id1565283667"
- }
-   
+      "name":"Global Smart + (Coming soon)",
+      "pageLink":"https://globalimebank.com/content/bharatpe-paytm-google-pay",
+      "logoLink":"GlobalSmart.webp",
+      "playStoreLink":"https://play.google.com/store/apps/details?id=com.swifttechnology.globalsmart&hl=en&gl=US",
+      "appStoreLink":"https://apps.apple.com/us/app/global-smart-plus/id1565283667"
+   }
 ]
