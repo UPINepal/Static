@@ -1,7 +1,24 @@
 [
-  {
-    "name": "Global IME Bank (Coming soon)",
-    "pageLink": "https://globalimebank.com/content/bharatpe-paytm-google-pay",
-    "logoLink": "GlobalIMEBank.png"
-  }
+   {
+      "name":"Global IME Bank (Coming soon)",
+      "pageLink":"https://globalimebank.com/content/bharatpe-paytm-google-pay",
+      "logoLink":"GlobalIMEBank.png",
+      "tags":[
+         "globalimebank.com",
+         "gibl.com.np",
+         "janatabank.com.np",
+         "globalimebank.com.np",
+         "globalonline",
+         "com.swifttechnology.globalsmart",
+         "global",
+         "ime",
+         "smart",
+         "plus",
+         "+",
+         "janata",
+         "upi",
+         "nepal",
+         "com.f1soft.globalmobilebanking.sms.activities.main"
+      ]
+   }
 ]
