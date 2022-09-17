@@ -93,5 +93,39 @@
          "upi",
          "nepal"
       ]
+   },
+    {
+      "name":"Sunrise Bank (Coming soon)",
+      "pageLink":"https://www.facebook.com/paymentnepal/posts/pfbid0oxVqbnd1v23kgkbfeqhwj8QJqeoEHaUprfWvU8Uyuq68vt7nxuJeVwuXvRN3tsQXl",
+      "logoLink":"sunriselog.png",
+      "tags":[
+         "www.sunrisebank.com.np",
+         "sunrisebank.com.np",
+         "icard.sunrisebank.com.np",
+         "plus.sunrisebank.com.np",
+         "com.f1soft.sunrisemobilebanking",
+         "sunrise",
+         "plus",
+         "upi nepal",
+         "upi",
+         "nepal"
+      ]
+   },
+    {
+      "name":"Kamana Sewa Bikas Bank (Coming soon)",
+      "pageLink":"https://www.facebook.com/paymentnepal/posts/pfbid026FiDmsrQxA2MZU5iMvKjtMRXt1qLSKFdHghkb8GqNhoaDVxQ4FT7P9dN7WkJeeUSl",
+      "logoLink":"KamanaSewaBankLogo.png",
+      "tags":[
+         "kamanasewabank.com",
+         "ibank.kamanasewabank.com",
+         "com.f1soft.kaskimobilebanking",
+         "sunrise",
+         "KS iMobile",
+          "KS",
+          "iMobile",
+         "upi nepal",
+         "upi",
+         "nepal"
+      ]
    }
 ]

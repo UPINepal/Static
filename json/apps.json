@@ -81,5 +81,43 @@
          "upi",
          "nepal"
       ]
+   },
+    {
+      "name":"Sunrise Smart+ (Coming soon)",
+      "pageLink":"https://www.facebook.com/paymentnepal/posts/pfbid0oxVqbnd1v23kgkbfeqhwj8QJqeoEHaUprfWvU8Uyuq68vt7nxuJeVwuXvRN3tsQXl",
+      "logoLink":"SunriseSmartPlus.png",
+      "playStoreLink":"https://play.google.com/store/apps/details?id=com.f1soft.sunrisemobilebanking",
+      "appStoreLink":"https://apps.apple.com/us/app/sunrise-smart/id663781578",
+      "tags":[
+         "www.sunrisebank.com.np",
+         "sunrisebank.com.np",
+         "icard.sunrisebank.com.np",
+         "plus.sunrisebank.com.np",
+         "com.f1soft.sunrisemobilebanking",
+         "sunrise",
+         "plus",
+         "upi nepal",
+         "upi",
+         "nepal"
+      ]
+   },
+    {
+      "name":"KS iMobile (Coming soon)",
+      "pageLink":"https://www.facebook.com/paymentnepal/posts/pfbid026FiDmsrQxA2MZU5iMvKjtMRXt1qLSKFdHghkb8GqNhoaDVxQ4FT7P9dN7WkJeeUSl",
+      "logoLink":"KSiMobile.png",
+      "playStoreLink":"https://play.google.com/store/apps/details?id=com.f1soft.kaskimobilebanking&hl=en&gl=US",
+      "appStoreLink":"https://apps.apple.com/np/app/kamana-smart/id1222527168",
+      "tags":[
+         "kamanasewabank.com",
+         "ibank.kamanasewabank.com",
+         "com.f1soft.kaskimobilebanking",
+         "sunrise",
+         "KS iMobile",
+          "KS",
+          "iMobile",
+         "upi nepal",
+         "upi",
+         "nepal"
+      ]
    }
 ]
