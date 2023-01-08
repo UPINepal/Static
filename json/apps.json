@@ -25,7 +25,7 @@
       ]
    },
    {
-      "name":"Nabil SmartBank (Coming soon)",
+      "name":"nBank (Coming soon)",
       "pageLink":"https://www.facebook.com/paymentnepal/photos/a.291311472286632/707298960687879/",
       "logoLink":"NabilSmartBank.png",
       "playStoreLink":"https://play.google.com/store/apps/details?id=com.f1soft.nabilmbank&hl=en&gl=US",
@@ -40,7 +40,8 @@
          "com.f1soft.nabilmbank",
          "upi nepal",
          "upi",
-         "nepal"
+         "nepal",
+          "nbank"
       ]
    },
    {
