@@ -1,4 +1,60 @@
-[
+[ {
+      "name":"connectIPS (NCHL, Nepal) (Coming soon)",
+      "pageLink":"https://twitter.com/NCHLOfficial/status/1664229683611959296",
+      "logoLink":"connectIPS.webp",
+      "playStoreLink":"https://play.google.com/store/apps/details?id=com.infodev.nchl_android",
+      "appStoreLink":"https://apps.apple.com/us/app/connectips/id1449940087",
+      "tags":[
+         "connectIPS",
+         "NCHL",
+         "com.infodev.nchl_android",
+         "nepalpay",
+         "nepalpayqr",
+         "fnepalpay qr",
+         "upi nepal",
+         "upi",
+         "nepal",
+         "upi in nepal"
+      ]
+   },
+   {
+      "name":"eSewa (Coming soon)",
+      "pageLink":"https://twitter.com/NPCI_NPCI/status/1699696660287459544",
+      "logoLink":"eSewa.webp",
+      "playStoreLink":"https://play.google.com/store/apps/details?id=com.f1soft.esewa",
+      "appStoreLink":"https://apps.apple.com/np/app/esewa/id614370939",
+      "tags":[
+         "esewa",
+         "e sewa",
+         "com.f1soft.esewa",
+         "phonepay",
+         "fonepayqr",
+         "fonepay qr",
+         "upi nepal",
+         "upi",
+         "nepal",
+         "upi in nepal"
+      ]
+   },
+   {
+      "name":"Fonepay App (Coming soon)",
+      "pageLink":"https://twitter.com/NPCI_NPCI/status/1699696660287459544",
+      "logoLink":"Fonepay.webp",
+      "playStoreLink":"https://play.google.com/store/apps/details?id=com.fonepay",
+      "appStoreLink":"https://apps.apple.com/np/app/fonepay-app/id1478083267",
+      "tags":[
+         "fonepay.com",
+         "com.fonepay",
+         "phonepay",
+         "fonepayqr",
+         "fonepay qr",
+         "fonepayDirect",
+         "upi nepal",
+         "upi",
+         "nepal",
+         "upi in nepal"
+      ]
+   },
    {
       "name":"Global Smart + (Coming soon)",
       "pageLink":"https://globalimebank.com/content/bharatpe-paytm-google-pay",
